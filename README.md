@@ -22,4 +22,4 @@ You lose.
 
 But when made incorrectly a life is loss
 
-Enjoy 😉 Coded with ❤️ by Vector
+Enjoy 😉 Coded with ❤️ by Jude
