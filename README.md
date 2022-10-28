@@ -1,2 +1,2 @@
 # Hangman-Game
-A Hangman Program written in Python 🤓
+A Simple Hangman Program written in Python 🤓
